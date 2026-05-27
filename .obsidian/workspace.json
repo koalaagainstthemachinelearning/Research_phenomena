@@ -11,10 +11,14 @@
             "id": "112e43e69a4465f3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "blog-drafts/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ]
@@ -178,18 +182,24 @@
   },
   "active": "112e43e69a4465f3",
   "lastOpenFiles": [
-    "website/node_modules/fsevents/package.json",
-    "website/node_modules/fsevents/fsevents.node",
-    "website/node_modules/fsevents/fsevents.js",
-    "website/node_modules/fsevents/fsevents.d.ts",
+    "website/dist/sitemap-index.xml",
+    "website/dist/sitemap-0.xml",
+    "website/dist/_astro/blog-placeholder-about.BtEdEmGp_2eecaz.webp",
+    "website/dist/index.html",
+    "website/dist/rss.xml",
+    "website/dist/blog/index.html",
+    "website/dist/blog",
+    "website/dist/about/index.html",
+    "website/dist/about",
+    "website/dist/_astro/blog-placeholder-1.Bx0Zcyzv.jpg",
+    "website/dist/_astro/blog-placeholder-about.BtEdEmGp.jpg",
+    "website/dist/favicon.svg",
+    "website/dist/favicon.ico",
+    "website/dist/_astro/fonts/c570d1819f4ba27e.woff",
+    "website/dist/_astro/fonts/4449419a90291d04.woff",
+    "website/src/content/blog/Untitled.md",
+    "blog-drafts/Untitled.md",
     "website/node_modules/fsevents/README.md",
-    "website/node_modules/fsevents/LICENSE",
-    "website/node_modules/fsevents",
-    "website/package-lock.json",
-    "website/node_modules/astro/dist/runtime/client/dev-toolbar/apps/audit/rules/perf.js",
-    "website/node_modules/astro/dist/runtime/client/dev-toolbar/apps/audit/rules/index.js",
-    "website/node_modules/astro/dist/runtime/client/dev-toolbar/apps/audit/rules/perf.d.ts",
-    "website/node_modules/astro/dist/runtime/client/dev-toolbar/apps/audit/rules/index.d.ts",
     "website/node_modules/rollup/node_modules/@types/estree/README.md",
     "website/node_modules/parse-entities/node_modules/@types/unist/README.md",
     "website/node_modules/csso/node_modules/mdn-data/css/readme.md",
@@ -212,14 +222,11 @@
     "website/node_modules/@types/mdast/README.md",
     "website/node_modules/@types/hast/README.md",
     "website/node_modules/@types/estree-jsx/README.md",
-    "website/node_modules/@types/estree/README.md",
-    "website/node_modules/@types/debug/README.md",
     "website/src/assets/blog-placeholder-about.jpg",
     "website/src/assets/blog-placeholder-5.jpg",
     "website/src/assets/blog-placeholder-4.jpg",
     "website/src/assets/blog-placeholder-3.jpg",
     "website/src/assets/blog-placeholder-2.jpg",
-    "website/src/assets/blog-placeholder-1.jpg",
-    "website/public/favicon.svg"
+    "website/src/assets/blog-placeholder-1.jpg"
   ]
 }
