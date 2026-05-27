@@ -1,0 +1,7 @@
+# Terminal 1 - Astro dev server
+cd ~/Desktop/Research-phenomena/website
+npm run dev
+
+# Terminal 2 - Image sync watcher
+cd ~/Desktop/Research-phenomena
+node scripts/sync-images.js
